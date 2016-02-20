@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#301800'
+    - '#A8A880'
+    - '#983008'
+    - '#000000'
+  brandStrength: 0.759209
+  lightness: 0.366705
+  rhythmicContrast: 0.106663
+  saturation: 0.015473
+cta: {}
+layout_spectrum: 1
+name: dongpocc
+opengraph: {}
+purpose: {}
+typography_spectrum: 1
